@@ -2,16 +2,20 @@
 Comprehensive Sequence Analysis of the Human TNF Gene
 #Mini Project: Comprehensive Sequence
 #Analysis of the Human TNF Gene
+
 #Project Title:
 #Comprehensive Sequence Analysis of the Human TNF Gene
+
 #Objective:
 #To apply bioinformatics skills learned in Module 1 to download, analyze, and interpret the
 sequence of the human TNF gene, which encode a proinflammatory cytokine call TNF.
+
 #Project Overview:
 #In this mini project, you will perform a series of bioinformatics tasks using the human TNF
 gene as your sequence of interest. The project will guide you through downloading the
 sequence, translating it, finding ORFs, analyzing sequence composition, identifying
 transcription factor binding sites, searching for functional motifs, predicting coding/noncoding regions, and converting sequence file formats.
+
 #Task 1: Download a Biological Sequence from NCBI and View/Edit It
 Objective:
 Download the human TNF gene sequence and view it using BioEdit.
@@ -23,6 +27,7 @@ Instructions:
 • Open the sequence in BioEdit and view/edit it.
 Output:
 Take a screenshot of the sequence display in BioEdit
+
 #Task 2: Generate a Translation of a DNA or RNA Sequence into Amino Acids
 Objective:
 Translate the DNA sequence of the TNF gene into an amino acid sequence.
@@ -31,6 +36,7 @@ Instructions:
 • Use the 'Translate' feature in BioEdit to generate the amino acid sequence.
 Output:
 Take a screenshot of the amino acid you generated in BioEdit.
+
 #Task 3: Find ORFs (Open Reading Frames) in a DNA or RNA Sequence
 Objective:
 Identify the ORFs within the TNF gene sequence.
@@ -40,6 +46,7 @@ Instructions:
 Output:
 Take a screen short of ORF in BioEdit and Interpret your results in 5 sentences in a word
 document
+
 #Task 4: Analyze Sequence Composition (Nucleotide or Amino Acid Frequencies)
 Objective:
 Analyze the nucleotide composition of the TNF gene sequence.
@@ -50,6 +57,7 @@ Instructions:
 Output:
 Take a screen short of BioEdit showing your result and interpret your results (max: 5
 sentences in a word document)
+
 #Task 5: Identify Transcription Factor Binding Sites Using the PROMO Tool
 Objective:
 Identify potential transcription factor binding sites in the TNF gene promoter region.
@@ -60,6 +68,7 @@ Instructions:
 • Identify potential transcription factor binding sites .
 Output:
 Screenshot your result and comment on it(max: 5 sentences )
+
 #Task 6: Search for Functional Motifs in a Genome or Transcriptome Using MEME
 Suite
 Objective:
@@ -71,6 +80,7 @@ Instructions:
 • Interpret and save the results of the motif search.
 Output:
 Screenshot your result and interpret it(sentence limit: a paragraph )
+
 #Task 7: Predict Coding/Non-Coding Regions in a Genome Using GENSCAN
 Objective:
 Predict the coding and non-coding regions within the TNF gene sequence.
@@ -81,6 +91,7 @@ Instructions:
 • Save and interpret the results.
 Output:
 Screenshot your result and interpret it(max: 5 sentences )
+
 #Task 8: Convert Between Sequence File Formats Using BioEdit (FASTA to
 PHYLIP)
 Objective:
